@@ -11,7 +11,8 @@ A text-based RPG made in Assembly for a university assignment. This is a fully f
 * High Score System
 
 ## Usage
-Run make, then run make qemu on a Linux system
+1.make
+2.make qemu
 
 ## Requirements
 Terminal with ability to run/compile X86 Assembly code
