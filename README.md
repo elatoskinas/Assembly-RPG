@@ -18,3 +18,6 @@ A text-based RPG made in Assembly for a university assignment. This is a fully f
 ## Requirements
 Terminal with ability to run/compile X86 Assembly code
 QEMU
+
+## Credits
+The following [game library](https://github.com/thegeman/gamelib-x64) was used to make this project. The only code that is mine is in game.s under src/game which includes all the actual game code.
