@@ -12,6 +12,7 @@ A text-based RPG made in Assembly for a university assignment. This is a fully f
 
 ## Usage
 1.make
+
 2.make qemu
 
 ## Requirements
