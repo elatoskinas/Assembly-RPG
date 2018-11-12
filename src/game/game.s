@@ -19,7 +19,7 @@ along with gamelib-x64. If not, see <http://www.gnu.org/licenses/>.
 
 # ***********************************************
 # * Assembly Game Project: Text Based RPG       *
-# * by: elatoskinas                             *
+# * Author: Evaldas Latoškinas                  *
 # ***********************************************
 
 .file "src/game/game.s"
