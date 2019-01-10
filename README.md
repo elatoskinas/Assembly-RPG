@@ -17,6 +17,7 @@ A text-based RPG made in Assembly for a university assignment. This is a fully f
 
 ## Requirements
 Terminal with ability to run/compile X86 Assembly code
+
 QEMU
 
 ## Credits
